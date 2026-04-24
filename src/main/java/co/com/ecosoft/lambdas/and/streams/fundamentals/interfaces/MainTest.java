@@ -1,4 +1,4 @@
-package co.com.ecosoft.lambdas.and.streams.fundamentals.interfaces.service.co.com.ecosoft.lambdas.and.streams.fundamentals.interfaces;
+package co.com.ecosoft.lambdas.and.streams.fundamentals.interfaces;
 
 import co.com.ecosoft.lambdas.and.streams.fundamentals.interfaces.service.DatabaseService;
 import co.com.ecosoft.lambdas.and.streams.fundamentals.interfaces.service.impl.MongoDbService;
